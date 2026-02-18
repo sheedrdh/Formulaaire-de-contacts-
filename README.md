@@ -1,6 +1,7 @@
-🎨 Dynamic Contact Form
 
-<img src="https://img.shields.io/badge/HTML5-Structure-orange" alt="HTML5" />
+🎨 Dynamic Contact Form
+<img scr ="https://img.shields.io/badge/HTML5-Structure-orange"  alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-Styling-blue" alt="CSS3" />
 <img src="https://img.shields.io/badge/CSS3-Styling-blue" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-Interactive-yellow" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Design-Responsive-success" alt="Responsive" />
@@ -19,7 +20,7 @@ A modern and responsive contact form built with HTML5, CSS3, and Vanilla JavaScr
 
 
 📂 Project Structure
-dynamic - contact - form /
+dynamic - contact - form /          
 │
 ├── index.html
 ├── style.css
