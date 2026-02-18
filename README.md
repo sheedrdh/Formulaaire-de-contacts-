@@ -102,7 +102,7 @@ The form adapts seamlessly to:
 
 Clone the repository:
 
-git clone https://github.com/your-username/dynamic-contact-form.git
+git clone https://github.com/sheedrdh/Formulaaire-de-contacts-.git
 
 Open index.html in your browser.
 
